@@ -7,7 +7,7 @@
 🌱 I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.  
 💫 Researching how to seamlessly connect users, designers, front-end developers & backend developers.  
 
-Currently, I'm focused on mastering **JavaScript, TypeScript, React.js, Next.js, React Native, GraphQL, Express.js, and AWS**, pushing the boundaries of SSR front-ends, full-stack developments, and cloud services. Let's connect, collaborate, and innovate! 🚀
+Currently, I'm focused on mastering **JavaScript, TypeScript, React.js, Next.js, React Native, Express.js, and AWS**, pushing the boundaries of SSR front-ends, full-stack developments, and cloud services. Let's connect, collaborate, and innovate! 🚀
 
 
   
