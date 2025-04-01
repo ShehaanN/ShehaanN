@@ -4,7 +4,7 @@
   
 💡 I like to explore new technologies and develop software solutions and quick hacks.  
 🎓 I'm currently studying Software Engineering at Sabaragamuwa University of Sri Lanka🇱🇰.  
-🌱 I'm on track for learning more about modern Full-Stack Development, including Frontend & Backend Technologies, Database Management, and Scalable System Architectures.  
+🌱 I'm on track for learning more about Artificial Intelligence, Modern Web Development, and Scalable System Architectures.  
 💫 Researching how to seamlessly connect users, designers, front-end developers & backend developers.  
 
 Currently, I'm focused on mastering **JavaScript, TypeScript, React.js, Next.js, React Native, Express.js, and AWS**, pushing the boundaries of SSR front-ends, full-stack developments, and cloud services. Let's connect, collaborate, and innovate! 🚀
