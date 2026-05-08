@@ -6,7 +6,7 @@
 
 <p align="left">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C0FF&center=false&vCenter=true&repeat=true&width=600&lines=Full-Stack+Developer;Software+Engineer" 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C0FF&center=false&vCenter=true&repeat=true&width=600&lines=Cyber+Security+Analyst" 
     alt="Typing SVG" 
   />
 </p>
@@ -24,10 +24,12 @@
 
 
 
-<p align="left">🎯 Passionate about Full-Stack Development | Cybersecurity Enthusiast <br>💻 Aspiring Full-Stack Developer | Software Engineer | Linux User<br>🎓 BSc. Honours in Computing & Information Systems @ SUSL<br>💡 Expanding expertise in TypeScript, Next.js, React Native<br>🌱 Currently working on Zsilla<br> 🔍 Motivated by solving problems with clean, efficient, and innovative solutions</p>
+<p align="left">🎯  Cybersecurity Enthusiast <br>💻 Aspiring Cyber Security Analyst | Security Operations Center (SOC) Analyst | Linux User<br>🎓 BSc. Honours in Computing & Information Systems @ SUSL</p>
 
-
-
+<!--
+<p align="left">🎯  Cybersecurity Enthusiast <br>💻 Aspiring Cyber Security Analyst | Security Operations Center (SOC) Analyst | Linux User<br>🎓 BSc. Honours in Computing & Information Systems @ SUSL<br>💡 Expanding expertise in TypeScript, Next.js, React Native<br>🌱 Currently working on Zsilla<br> 🔍 Motivated by solving problems with clean, efficient, and innovative solutions</p>
+-->
+<!--
 <h2 align="left">Tech Stack</h2>
 
 <div align="left">
@@ -69,7 +71,7 @@
   <img width="5" />
   <img src="https://cdn.simpleicons.org/mysql/4479A1" height="32" alt="mysql logo"  />
 </div>
-
+-->
 ###
 
 <h2 align="left">Get in Touch</h2>
@@ -91,29 +93,32 @@
 </div>
 
 ###
-
+<!--
 <h2 align="left">GitHub Stats</h2>
 
 ###
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShehaanN&theme=github_dark) 
 <div align="left">
-
-  <!-- 🔥 Contribution Streak -->
+-->
+  <!-- 🔥 Contribution Streak --> 
+  <!--
  ![streak graph](https://streak-stats.demolab.com?user=ShehaanN&locale=en&mode=weekly&theme=tokyonight&hide_border=true&border_radius=5&order=3)
 
-  
+  -->
 
   <!-- 📊 Stats & Languages Side by Side -->
+  <!--
  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ShehaanN&show_icons=true&hide_border=true&theme=github_dark)
 <br>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShehaanN&layout=compact&theme=tokyonight&hide_border=true)
 
- 
+ -->
 
   <!-- 🏆 GitHub Trophy -->
+  <!--
   ![trophy graph](https://github-profile-trophy.vercel.app?username=ShehaanN&theme=dracula&column=-1&row=1&margin-w=4&margin-h=8&no-bg=false&no-frame=true&order=4)
 
-
+-->
 </div>
 
 
