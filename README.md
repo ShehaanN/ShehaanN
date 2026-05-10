@@ -29,9 +29,20 @@
 <!--
 <p align="left">🎯  Cybersecurity Enthusiast <br>💻 Aspiring Cyber Security Analyst | Security Operations Center (SOC) Analyst | Linux User<br>🎓 BSc. Honours in Computing & Information Systems @ SUSL<br>💡 Expanding expertise in TypeScript, Next.js, React Native<br>🌱 Currently working on Zsilla<br> 🔍 Motivated by solving problems with clean, efficient, and innovative solutions</p>
 -->
-<!--
-<h2 align="left">Tech Stack</h2>
 
+<h2 align="left">Tech Stack</h2>
+<div align="left"> <img width="5" />
+  <img src="https://cdn.simpleicons.org/fedora/51A2DA" height="32" alt="fedora logo"  /> <img width="5" />
+  <img src="https://cdn.simpleicons.org/kalilinux/2496ED" height="32" alt="docker logo"  /> <img width="5" />
+  <img src="https://skillicons.dev/icons?i=linux" height="32" alt="linux logo"  />  <img width="5" />
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="32" alt="mysql logo"  />  <img width="5" />
+  <img src="https://cdn.simpleicons.org/wireshark/4479A1" height="32" alt="wireshark logo"  />  <img width="5" />
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="32" alt="docker logo"  />   </div>
+
+
+
+
+<!--
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" alt="javascript logo"  />
  <img width="5" />
